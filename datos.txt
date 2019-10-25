@@ -1,0 +1,27 @@
+{"Contry": "France", "Goals": 0, "Height": 188, "ShirtName": "LLORIS"}
+{"Contry": "France", "Goals": 0, "Height": 186, "ShirtName": "PAVARD"}
+{"Contry": "France", "Goals": 0, "Height": 182, "ShirtName": "KIMPEMBE"}
+{"Contry": "France", "Goals": 2, "Height": 191, "ShirtName": "VARANE"}
+{"Contry": "France", "Goals": 2, "Height": 183, "ShirtName": "MTITI"}
+{"Contry": "France", "Goals": 9, "Height": 191, "ShirtName": "POGBA"}
+{"Contry": "France", "Goals": 20,"Height": 174,  "ShirtName": "GRIEZMANN"}
+{"Contry": "France", "Goals": 3, "Height": 172, "ShirtName": "LEMAR"}
+{"Contry": "France",  "Goals": 31,  "Height": 193,  "ShirtName": "GIROD"}
+{"Contry": "France", "Goals": 4, "Height": 178, "ShirtName": "MBAPPE"}
+{"Contry": "France",  "Goals": 2,  "Height": 178,  "ShirtName": "DEMBELE"}
+{"Contry": "France",  "Goals": 0,  "Height": 180,  "ShirtName": "TOLISSO"}
+{"Contry": "France", "Goals": 1, "Height": 168, "ShirtName": "KANTE"}
+{"Contry": "France",  "Goals": 9,  "Height": 180,  "ShirtName": "MATIDI"}
+{"Contry": "France", "Goals": 0, "Height": 197, "ShirtName": "NZONZI"}
+{"Contry": "France",  "Goals": 0,  "Height": 187,  "ShirtName": "MANDANDA"}
+{"Contry": "France", "Goals": 1, "Height": 190, "ShirtName": "RAMI"}
+{"Contry": "France", "Goals": 2, "Height": 173, "ShirtName": "FEKIR"}
+{"Contry": "France", "Goals": 1, "Height": 184, "ShirtName": "SIDIBE"}
+{"Contry": "France",  "Goals": 0,  "Height": 180,  "ShirtName": "THAVIN"}
+{"Contry": "France",  "Goals": 0,  "Height": 183,  "ShirtName": "HERNANDEZ"}
+{"Contry": "France", "Goals": 0, "Height": 183, "ShirtName": "MENDY"}
+{"Contry": "France", "Goals": 0, "Height": 195, "ShirtName": "AREOLA"}
+{"Contry": "Nigeria", "Goals": 1, "Height": 172, "ShirtName": "ONAZI"}
+{"Contry": "Nigeria", "Goals": 5, "Height": 185, "ShirtName": "IWOBI"}
+{"Contry": "Nigeria", "Goals": 2, "Height": 191, "ShirtName": "OG"}
+{"Contry": "Nigeria", "Goals": 0, "Height": 196, "ShirtName": "ZOHO"}
